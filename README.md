@@ -1,0 +1,11 @@
+- 👋 Hi, I’m Semin Mulavdic!
+  
+- I'm currently pursuing my Bachelor's degree in Computer Science and Artificial Intelligence at the Technical University of Ingolstadt, Germany. I am passionate about technology and problem-solving.
+- My academic and personal projects span a variety of programming languages and frameworks, and I'm always eager to expand my skills and collaborate on exciting projects.
+- 🌱 I’m currently learning:
+- Natural Language Processing (NLP) - exploring techniques for understanding and generating human language
+- Computer Vision - working with image processing and computer vision frameworks
+- Big Data Technologies - learning how to manage and analyze large datasets
+- 📫 Feel free to connect with me if you have any questions or if you'd like to collaborate on a project!
+- Email: seminmulavdic03@gmail.com
+- Thank you for visiting my profile! 😊
